@@ -1,0 +1,7 @@
+*.css
+*.svg
+tailwind.config.ts
+src/reportWebVitals.ts
+.next/
+.vscode/
+node_modules/
